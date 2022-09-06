@@ -595,6 +595,6 @@ module.exports = [
       Github: "https://github.com/roddeuss",
     },
     tech_stack: ["NodeJS", "Javacript","ExpressJs", "C#", "Postgresql", "MySQL", "SQL Server"],
-    hired: true,
+    hired: false,
   }
 ];
